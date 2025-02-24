@@ -3,7 +3,7 @@
 
 ## **Project Overview**  
 This project explores **E-commerce data analysis**, leveraging **Python, Pandas, Matplotlib, and Seaborn** to derive valuable business insights. The dataset includes customer demographics, purchase history, and product categories, helping to understand trends in online shopping.  
-
+.github/ISSUE_TEMPLATE/Screenshot 2025-02-25 004636.png
 ## **Key Features**  
 ✅ **Customer Behavior Analysis** – Identifies purchase patterns and preferences.  
 ✅ **Sales Analysis** – Examines seasonal trends and top-selling categories.  
