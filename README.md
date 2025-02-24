@@ -21,9 +21,8 @@ This project explores **E-commerce data analysis**, leveraging **Python, Pandas,
 📌 Most sales occur in the **Fall & Spring seasons**.  
 📌 **Clothing & Footwear** are the most purchased categories.  
 📌 **Discounts & free shipping** significantly impact sales.  
+
 📌 **Subscription-based models** improve customer retention.  
 
 ## **Conclusion**  
-This analysis helps businesses enhance their marketing strategies, improve customer retention, and optimize sales performance through data-driven decision-making.  
-
-📢 **Contributions are welcome!** Feel free to fork and enhance the project.  
+This analysis helps businesses enhance their marketing strategies, improve customer retention, and optimize sales performance through data-driven decision-making.    
