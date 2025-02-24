@@ -11,12 +11,16 @@ This project explores **E-commerce data analysis**, leveraging **Python, Pandas,
 ✅ **Churn Prediction** – Determines customer retention and drop-off reasons.  
 ✅ **Impact of Discounts & Promotions** – Evaluates how offers affect purchase decisions.  
 ✅ **Data Visualization** – Uses Seaborn & Matplotlib for meaningful insights.  
+![image](https://github.com/user-attachments/assets/a75cd980-a2b0-4b9f-bd72-084e324b1efc)
+
 
 ## **Technologies Used**  
 🔹 Python (Pandas, NumPy)  
 🔹 Data Visualization (Matplotlib, Seaborn)  
 🔹 Data Cleaning & Preprocessing  
 🔹 Statistical Analysis  
+![image](https://github.com/user-attachments/assets/84ef1882-8389-4327-830e-362cf708b2af)
+
 
 ## **Results & Insights**  
 📌 Most sales occur in the **Fall & Spring seasons**.  
